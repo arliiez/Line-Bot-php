@@ -1,3 +1,3 @@
 <?php
 echo "I am a bot";
-echo "Bot form IT JASPAL";
+echo /N "Bot form IT JASPAL";
